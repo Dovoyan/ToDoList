@@ -1,5 +1,6 @@
 .itemTable {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .todoItem {
